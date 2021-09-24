@@ -1,0 +1,19 @@
+body{
+    font-family: "Poppins";
+}
+.vogais{
+    font-size: 30px;
+}
+.escolheLetra{
+    width: 50px !important;
+    text-align: center;
+    margin-right: 20px;
+}
+.inputs{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.display{
+    display: none;
+    margin-top: 100px;
+}
